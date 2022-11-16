@@ -27,6 +27,14 @@ Use this FREE and easy tool to benefit your work life today!
 
 ## Usage 
 
+Now that you have all the programs downloaded to your system, you can being creating! Remember to initialize all the Node packages!
+
+Open GitBash or Terminal, for MAC OS users, and navigate to the directory file you have created for this cloned repository. 
+
+Start the application using "node index.js" in the command line. 
+
+If you are unsure on what to add to your README sections, see the guide below for ideas. 
+
 ## Guidelines 
 
 ## Demo

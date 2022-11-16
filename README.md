@@ -4,7 +4,7 @@
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Guidelines](#guidelines)
+* [Instructions](#instrucitons )
 * [Demo](#demo)
 * [Questions](#questions)
 * [Credits](#credits)
@@ -35,7 +35,7 @@ Start the application using "node index.js" in the command line.
 
 If you are unsure on what to add to your README sections, see the guide below for ideas. 
 
-## Guidelines 
+## Instructions 
 
 ## Demo
 

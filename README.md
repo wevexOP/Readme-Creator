@@ -19,6 +19,12 @@ Use this FREE and easy tool to benefit your work life today!
 
 ## Installation 
 
+### Required programs to have downloaded on your device to run this application:  
+* VS Code  
+* GitBash  
+* Node.js  
+
+
 ## Usage 
 
 ## Guidelines 
@@ -28,3 +34,5 @@ Use this FREE and easy tool to benefit your work life today!
 ## Questions 
 
 ## Credit 
+
+Dominic Paulazzo

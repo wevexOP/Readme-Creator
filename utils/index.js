@@ -1,7 +1,7 @@
 // Packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
-const generateMarkdown = require('./potential-enigma/Develop/utils/generateMarkdown.js');
+const generateMarkdown = require('./genmarkdown');
 
 // Array of questions for user input
 const questions = [

@@ -65,7 +65,9 @@ If you are unsure on what to add to your README sections, see the guide below fo
 
 ## Demo
 
-Check out this video to see the README creator tool in action!---> [this demo](-link-)
+Check out this video to see the README creator tool in action!
+
+
 
 ## Questions 
 

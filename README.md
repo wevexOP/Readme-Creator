@@ -67,6 +67,7 @@ If you are unsure on what to add to your README sections, see the guide below fo
 
 Check out this video to see the README creator tool in action!
 
+[Untitled_ Nov 18, 2022 10_58 AM.webm](https://user-images.githubusercontent.com/111082615/202782172-71f5787e-335d-47b9-be6a-179c739b8f88.webm)
 
 
 ## Questions 
